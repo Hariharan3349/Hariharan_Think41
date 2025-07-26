@@ -1,0 +1,216 @@
+{
+  "test_results": [
+    {
+      "message": "hello",
+      "response": "Hi there! I'm here to assist you with your shopping needs. What can I help you find?",
+      "status": "success",
+      "expected_intent": "greeting"
+    },
+    {
+      "message": "hi there",
+      "response": "Here are some products matching 'there':\n\n1. Patty Women Stunning Scoop Neck Ruched Gathered Long Sleeve Blouse Top by Patty\n   Category: Tops & Tees\n   Price: $32.99\n\n2. Wallflower Blazer with Leatherette Trim by Wallflower\n   Category: Blazers & Jackets\n   Price: $29.50\n\n3. Leatherette Leggings with Side Knit Panel Coffee by Stella Elyse\n   Category: Leggings\n   Price: $29.99\n\n4. Leatherette Leggings with Side Knit Panel Beige by Stella Elyse\n   Category: Leggings\n   Price: $29.99\n\n5. Rhinestone Knees Matte Black Leatherette Liquid Leggings by Stella Elyse\n   Category: Leggings\n   Price: $29.99\n\nWould you like more details about any of these products?",
+      "status": "success",
+      "expected_intent": "greeting"
+    },
+    {
+      "message": "good morning",
+      "response": "Welcome! I'm your personal shopping assistant. How may I help you?",
+      "status": "success",
+      "expected_intent": "greeting"
+    },
+    {
+      "message": "tshirts",
+      "response": "Here are some products matching 'tshirts':\n\n1. Independent Trading Co. Mens Sherpa Lined Full-Zip Contrast Hooded Sweatshirt (Assorted Colors) by ITC\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $54.99\n\n2. Next Level Apparel Ladies Juniors' Soft Thermal Hoodie T-Shirt. 8021 by NLA\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $14.00\n\n3. QSW Women's Native Cocoon Hoodie by QSW\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $128.00\n\n4. QSW Women's Seabreeze Wrap by QSW\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $84.00\n\n5. QSW Women's Sand Dunes Hoodie Sweater by QSW\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $84.00\n\nWould you like more details about any of these products?",
+      "status": "success",
+      "expected_intent": "product_search"
+    },
+    {
+      "message": "dresses",
+      "response": "Here are some products matching 'dresses':\n\n1. AGB Women's Long Sleeve Striped Sweater Dress by AGB\n   Category: Dresses\n   Price: $79.00\n\n2. AGB Women's Short Sleeve Cowl Necked Sweater Dress by AGB\n   Category: Dresses\n   Price: $50.39\n\n3. AGB Women's Striped Long Sleeve Sweater Dress With Sash by AGB\n   Category: Dresses\n   Price: $45.35\n\n4. AGB Women's V-Neck Dress With Draped Side by AGB\n   Category: Dresses\n   Price: $89.00\n\n5. AGB Women's Plus-Size Ruched Short Sleeve V-Neck Dress with Empire Waistline by AGB\n   Category: Dresses\n   Price: $53.20\n\nWould you like more details about any of these products?",
+      "status": "success",
+      "expected_intent": "product_search"
+    },
+    {
+      "message": "shoes",
+      "response": "Here are some products matching 'shoes':\n\n1. DC Star White Long Sleeve T-shirt by DC Shoes\n   Category: Tops & Tees\n   Price: $32.00\n\n2. DC Men's Celluloid Sweatshirt by DC Shoes\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $55.00\n\n3. DC Men's Ripstop 5 Wallet by DC Shoes\n   Category: Accessories\n   Price: $12.39\n\n4. DC SHOES Women's Disarm Hoodie Sweatshirt- Black by DC\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $31.98\n\n5. DC Shoes Women's Inky Jean Denim Shorts by DC\n   Category: Shorts\n   Price: $24.98\n\nWould you like more details about any of these products?",
+      "status": "success",
+      "expected_intent": "product_search"
+    },
+    {
+      "message": "jeans",
+      "response": "Here are some products matching 'jeans':\n\n1. YMI Juniors Five Pocket Jegging Jean by YMI\n   Category: Jeans\n   Price: $38.00\n\n2. YMI Juniors Floral Skinny by YMI\n   Category: Jeans\n   Price: $27.47\n\n3. YMI Belted Flare Leg Jeans [P466255-B1093] by YMI\n   Category: Jeans\n   Price: $27.95\n\n4. YMI Sandblasted Stretch Skinny Jeans [P139657] by YMI\n   Category: Jeans\n   Price: $28.99\n\n5. YMI Juniors Fleur De Lis Capri Jean by YMI\n   Category: Jeans\n   Price: $25.00\n\nWould you like more details about any of these products?",
+      "status": "success",
+      "expected_intent": "product_search"
+    },
+    {
+      "message": "search for hoodies",
+      "response": "Here are some products matching 'hoodies':\n\n1. Independent Trading Co. Mens Sherpa Lined Full-Zip Contrast Hooded Sweatshirt (Assorted Colors) by ITC\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $54.99\n\n2. Next Level Apparel Ladies Juniors' Soft Thermal Hoodie T-Shirt. 8021 by NLA\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $14.00\n\n3. QSW Women's Native Cocoon Hoodie by QSW\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $128.00\n\n4. QSW Women's Seabreeze Wrap by QSW\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $84.00\n\n5. QSW Women's Sand Dunes Hoodie Sweater by QSW\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $84.00\n\nWould you like more details about any of these products?",
+      "status": "success",
+      "expected_intent": "product_search"
+    },
+    {
+      "message": "find me some pants",
+      "response": "I couldn't find any products matching 'me some pants'. Could you try a different search term?",
+      "status": "success",
+      "expected_intent": "product_search"
+    },
+    {
+      "message": "show me jackets",
+      "response": "Here are some products matching 'jackets':\n\n1. ICE (5066) ladies smart herring bone tweed jacket brown 6-16 by Ice\n   Category: Blazers & Jackets\n   Price: $30.99\n\n2. Krazy Shawl Collar Tuxedo Boyfriend Suit Blazer Jacket Coat #282 US Size 0-2 4-6 6-8 by Krazy\n   Category: Blazers & Jackets\n   Price: $39.99\n\n3. A. Byer Snake Print Jacket BLACK Sm by A. Byer\n   Category: Blazers & Jackets\n   Price: $55.00\n\n4. A. Byer Snake Print Jacket BLACK Md by A. Byer\n   Category: Blazers & Jackets\n   Price: $55.00\n\n5. Dickies Jackets Coats High Performance Duck Hooded Jacket 33239 BD by Dickies\n   Category: Outerwear & Coats\n   Price: $69.99\n\nWould you like more details about any of these products?",
+      "status": "success",
+      "expected_intent": "product_search"
+    },
+    {
+      "message": "how many classic Tshirts are left in stock",
+      "response": "Here's the current stock information for tshirt products:\n\n1. Independent Trading Co. Mens Sherpa Lined Full-Zip Contrast Hooded Sweatshirt (Assorted Colors) by ITC\n   Available: 6 items\n   Total Stock: 11 items\n   Price: $54.99\n\n2. Next Level Apparel Ladies Juniors' Soft Thermal Hoodie T-Shirt. 8021 by NLA\n   Available: 12 items\n   Total Stock: 18 items\n   Price: $14.00\n\n3. QSW Women's Native Cocoon Hoodie by QSW\n   Available: 18 items\n   Total Stock: 26 items\n   Price: $128.00\n\nWould you like more details about any specific product?",
+      "status": "success",
+      "expected_intent": "inventory"
+    },
+    {
+      "message": "check stock for dresses",
+      "response": "Here's the current stock information for dress products:\n\n1. AGB Women's Long Sleeve Striped Sweater Dress by AGB\n   Available: 15 items\n   Total Stock: 26 items\n   Price: $79.00\n\n2. AGB Women's Short Sleeve Cowl Necked Sweater Dress by AGB\n   Available: 8 items\n   Total Stock: 14 items\n   Price: $50.39\n\n3. AGB Women's Striped Long Sleeve Sweater Dress With Sash by AGB\n   Available: 7 items\n   Total Stock: 12 items\n   Price: $45.35\n\nWould you like more details about any specific product?",
+      "status": "success",
+      "expected_intent": "inventory"
+    },
+    {
+      "message": "available quantity of jeans",
+      "response": "Here's the current stock information for jeans products:\n\n1. YMI Juniors Five Pocket Jegging Jean by YMI\n   Available: 2 items\n   Total Stock: 4 items\n   Price: $38.00\n\n2. YMI Juniors Floral Skinny by YMI\n   Available: 7 items\n   Total Stock: 11 items\n   Price: $27.47\n\n3. YMI Belted Flare Leg Jeans [P466255-B1093] by YMI\n   Available: 9 items\n   Total Stock: 14 items\n   Price: $27.95\n\nWould you like more details about any specific product?",
+      "status": "success",
+      "expected_intent": "inventory"
+    },
+    {
+      "message": "stock status for shoes",
+      "response": "Here's the current stock information for shoes products:\n\n1. DC Star White Long Sleeve T-shirt by DC Shoes\n   Available: 13 items\n   Total Stock: 21 items\n   Price: $32.00\n\n2. DC Men's Celluloid Sweatshirt by DC Shoes\n   Available: 18 items\n   Total Stock: 27 items\n   Price: $55.00\n\n3. DC Men's Ripstop 5 Wallet by DC Shoes\n   Available: 14 items\n   Total Stock: 24 items\n   Price: $12.39\n\nWould you like more details about any specific product?",
+      "status": "success",
+      "expected_intent": "inventory"
+    },
+    {
+      "message": "how much inventory do you have",
+      "response": "Here are some products matching 'how':\n\n1. Howe Men's Agenda Surrender Hoodie by Howe\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $89.00\n\n2. Howe Men's Everything Changes Blazer by Howe\n   Category: Suits & Sport Coats\n   Price: $133.33\n\n3. Howe Men's Personal Jesus Blazer by Howe\n   Category: Suits & Sport Coats\n   Price: $199.00\n\n4. Howe Men's The Finest Pant by Howe\n   Category: Pants\n   Price: $99.00\n\n5. Hause Of Howe  Men's The Finest Plaid Trouser by Howe\n   Category: Pants\n   Price: $58.03\n\nWould you like more details about any of these products?",
+      "status": "success",
+      "expected_intent": "inventory"
+    },
+    {
+      "message": "track my order #123",
+      "response": "I can see order #123. Let me check the status for you. Please provide your user ID for verification.",
+      "status": "success",
+      "expected_intent": "order_status"
+    },
+    {
+      "message": "where is my order",
+      "response": "I can help you track your order! Please provide your order number or user ID.",
+      "status": "success",
+      "expected_intent": "order_status"
+    },
+    {
+      "message": "order status for #456",
+      "response": "I can help you track your order! Please provide your order number or user ID.",
+      "status": "success",
+      "expected_intent": "order_status"
+    },
+    {
+      "message": "tracking information",
+      "response": "I'd be happy to provide product information! Could you please specify which product you're interested in?",
+      "status": "success",
+      "expected_intent": "order_status"
+    },
+    {
+      "message": "what's your return policy",
+      "response": "Our return policy is customer-friendly:\n\n\ud83d\udce6 **Return Window**: 30 days from delivery\n\u2705 **Conditions**: Items must be unworn, unwashed, and with original tags\n\ud83d\udd04 **Process**: \n1. Contact customer service\n2. Get return authorization\n3. Ship item back\n4. Refund processed within 5-7 business days\n\n\ud83d\udcb3 **Refunds**: Original payment method\n\ud83d\ude9a **Return Shipping**: Free for defective items\n\nNeed help with a specific return? Please provide your order number.",
+      "status": "success",
+      "expected_intent": "return_policy"
+    },
+    {
+      "message": "return information",
+      "response": "Our return policy is customer-friendly:\n\n\ud83d\udce6 **Return Window**: 30 days from delivery\n\u2705 **Conditions**: Items must be unworn, unwashed, and with original tags\n\ud83d\udd04 **Process**: \n1. Contact customer service\n2. Get return authorization\n3. Ship item back\n4. Refund processed within 5-7 business days\n\n\ud83d\udcb3 **Refunds**: Original payment method\n\ud83d\ude9a **Return Shipping**: Free for defective items\n\nNeed help with a specific return? Please provide your order number.",
+      "status": "success",
+      "expected_intent": "return_policy"
+    },
+    {
+      "message": "refund policy",
+      "response": "Our return policy is customer-friendly:\n\n\ud83d\udce6 **Return Window**: 30 days from delivery\n\u2705 **Conditions**: Items must be unworn, unwashed, and with original tags\n\ud83d\udd04 **Process**: \n1. Contact customer service\n2. Get return authorization\n3. Ship item back\n4. Refund processed within 5-7 business days\n\n\ud83d\udcb3 **Refunds**: Original payment method\n\ud83d\ude9a **Return Shipping**: Free for defective items\n\nNeed help with a specific return? Please provide your order number.",
+      "status": "success",
+      "expected_intent": "return_policy"
+    },
+    {
+      "message": "how long does shipping take",
+      "response": "Here's our shipping information:\n\n\ud83d\ude9a **Standard Shipping**: 5-7 business days\n\u26a1 **Express Shipping**: 2-3 business days  \n\ud83d\udee9\ufe0f **Overnight**: Next business day\n\n\ud83d\udcb0 **Shipping Costs**:\n\u2022 Orders over $50: FREE standard shipping\n\u2022 Standard: $5.99\n\u2022 Express: $12.99\n\u2022 Overnight: $24.99\n\n\ud83d\udce6 **Tracking**: All orders include tracking numbers\n\ud83c\udf0d **International**: Available to select countries\n\nNeed to track a specific order? Please provide your order number.",
+      "status": "success",
+      "expected_intent": "shipping"
+    },
+    {
+      "message": "shipping information",
+      "response": "Here's our shipping information:\n\n\ud83d\ude9a **Standard Shipping**: 5-7 business days\n\u26a1 **Express Shipping**: 2-3 business days  \n\ud83d\udee9\ufe0f **Overnight**: Next business day\n\n\ud83d\udcb0 **Shipping Costs**:\n\u2022 Orders over $50: FREE standard shipping\n\u2022 Standard: $5.99\n\u2022 Express: $12.99\n\u2022 Overnight: $24.99\n\n\ud83d\udce6 **Tracking**: All orders include tracking numbers\n\ud83c\udf0d **International**: Available to select countries\n\nNeed to track a specific order? Please provide your order number.",
+      "status": "success",
+      "expected_intent": "shipping"
+    },
+    {
+      "message": "delivery time",
+      "response": "Here's our shipping information:\n\n\ud83d\ude9a **Standard Shipping**: 5-7 business days\n\u26a1 **Express Shipping**: 2-3 business days  \n\ud83d\udee9\ufe0f **Overnight**: Next business day\n\n\ud83d\udcb0 **Shipping Costs**:\n\u2022 Orders over $50: FREE standard shipping\n\u2022 Standard: $5.99\n\u2022 Express: $12.99\n\u2022 Overnight: $24.99\n\n\ud83d\udce6 **Tracking**: All orders include tracking numbers\n\ud83c\udf0d **International**: Available to select countries\n\nNeed to track a specific order? Please provide your order number.",
+      "status": "success",
+      "expected_intent": "shipping"
+    },
+    {
+      "message": "help me",
+      "response": "I can help you with:\n\u2022 Finding products\n\u2022 Product information\n\u2022 Order tracking\n\u2022 Return policies\n\u2022 Shipping information\nWhat would you like to know?",
+      "status": "success",
+      "expected_intent": "help"
+    },
+    {
+      "message": "I need assistance",
+      "response": "Here's what I can assist you with:\n\u2022 Product search and recommendations\n\u2022 Order status and tracking\n\u2022 Return and refund policies\n\u2022 Shipping and delivery information\nHow can I help?",
+      "status": "success",
+      "expected_intent": "help"
+    },
+    {
+      "message": "what can you do",
+      "response": "Here are some products matching 'what':\n\n1. What Katie Did Maitresse Black Satin Suspender Belt L2003 by What Katie Did\n   Category: Intimates\n   Price: $51.00\n\n2. What Katie Did Maitresse Black Vintage Girdlette L3010 by What Katie Did\n   Category: Intimates\n   Price: $53.00\n\n3. What Katie Did Harlow Vintage Peach Deep Suspender Belt L2017 by What Katie Did\n   Category: Intimates\n   Price: $51.00\n\n4. What Katie Did 6 Detachable Garters A2008 by What Katie Did\n   Category: Intimates\n   Price: $18.00\n\n5. What Katie Did Harlow Vintage Peach Knickers L2063 by What Katie Did\n   Category: Intimates\n   Price: $33.00\n\nWould you like more details about any of these products?",
+      "status": "success",
+      "expected_intent": "help"
+    },
+    {
+      "message": "thank you",
+      "response": "Thanks for chatting with us. Happy shopping!",
+      "status": "success",
+      "expected_intent": "goodbye"
+    },
+    {
+      "message": "bye",
+      "response": "Thanks for chatting with us. Happy shopping!",
+      "status": "success",
+      "expected_intent": "goodbye"
+    },
+    {
+      "message": "goodbye",
+      "response": "Thanks for chatting with us. Happy shopping!",
+      "status": "success",
+      "expected_intent": "goodbye"
+    },
+    {
+      "message": "I'm looking for a red dress for a party",
+      "response": "Here are some products matching 'i'm':\n\n1. Lamaze Maternity Women's I'm Not Fat I'm Pregnant Tank Top by Lamaze\n   Category: Maternity\n   Price: $25.00\n\n2. I'M All Yours by Be Wicked\n   Category: Intimates\n   Price: $37.76\n\n3. I'm a Keeper Soccer Hooded Sweatshirt by Kalon\n   Category: Fashion Hoodies & Sweatshirts\n   Price: $36.99\n\n4. French Connection Men's I'm Really Really Sorry Tee by French Connection\n   Category: Tops & Tees\n   Price: $39.99\n\n5. Nightshirt Says Go Away I'm Reading 100% Cotton by Sleepshirt\n   Category: Sleep & Lounge\n   Price: $29.99\n\nWould you like more details about any of these products?",
+      "status": "success",
+      "expected_intent": "product_search"
+    },
+    {
+      "message": "Can you tell me about the shipping costs for orders over $50",
+      "response": "I can help you track your order! Please provide your order number or user ID.",
+      "status": "success",
+      "expected_intent": "shipping"
+    },
+    {
+      "message": "What's the return window for electronics",
+      "response": "Our return policy is customer-friendly:\n\n\ud83d\udce6 **Return Window**: 30 days from delivery\n\u2705 **Conditions**: Items must be unworn, unwashed, and with original tags\n\ud83d\udd04 **Process**: \n1. Contact customer service\n2. Get return authorization\n3. Ship item back\n4. Refund processed within 5-7 business days\n\n\ud83d\udcb3 **Refunds**: Original payment method\n\ud83d\ude9a **Return Shipping**: Free for defective items\n\nNeed help with a specific return? Please provide your order number.",
+      "status": "success",
+      "expected_intent": "return_policy"
+    },
+    {
+      "message": "Do you have any summer dresses in stock",
+      "response": "Here's the current stock information for dress products:\n\n1. AGB Women's Long Sleeve Striped Sweater Dress by AGB\n   Available: 15 items\n   Total Stock: 26 items\n   Price: $79.00\n\n2. AGB Women's Short Sleeve Cowl Necked Sweater Dress by AGB\n   Available: 8 items\n   Total Stock: 14 items\n   Price: $50.39\n\n3. AGB Women's Striped Long Sleeve Sweater Dress With Sash by AGB\n   Available: 7 items\n   Total Stock: 12 items\n   Price: $45.35\n\nWould you like more details about any specific product?",
+      "status": "success",
+      "expected_intent": "inventory"
+    }
+  ],
+  "ml_accuracy": 100.0,
+  "timestamp": 1753510002.737889
+}

@@ -1,0 +1,75 @@
+{
+  "accuracy": 0.660377358490566,
+  "classification_report": "                precision    recall  f1-score   support\n\n       goodbye       0.00      0.00      0.00         4\n      greeting       1.00      0.67      0.80         3\n          help       1.00      0.25      0.40         4\n     inventory       1.00      0.50      0.67         4\n  order_status       1.00      0.25      0.40         4\n  product_info       1.00      0.50      0.67         4\nproduct_search       0.57      1.00      0.73        23\n return_policy       1.00      0.67      0.80         3\n      shipping       0.67      0.50      0.57         4\n\n      accuracy                           0.66        53\n     macro avg       0.80      0.48      0.56        53\n  weighted avg       0.71      0.66      0.61        53\n",
+  "test_examples": [
+    {
+      "text": "hello there",
+      "predicted_intent": "greeting",
+      "confidence": 0.7377510787951569,
+      "entities": {}
+    },
+    {
+      "text": "search for jeans",
+      "predicted_intent": "product_search",
+      "confidence": 1.0,
+      "entities": {
+        "product_type": "jeans"
+      }
+    },
+    {
+      "text": "how many tshirts are in stock",
+      "predicted_intent": "inventory",
+      "confidence": 0.88,
+      "entities": {
+        "product_type": "tshirt"
+      }
+    },
+    {
+      "text": "track my order #123",
+      "predicted_intent": "order_status",
+      "confidence": 0.96,
+      "entities": {
+        "order_id": 123
+      }
+    },
+    {
+      "text": "what's your return policy",
+      "predicted_intent": "return_policy",
+      "confidence": 1.0,
+      "entities": {}
+    },
+    {
+      "text": "how long does shipping take",
+      "predicted_intent": "shipping",
+      "confidence": 0.94,
+      "entities": {}
+    },
+    {
+      "text": "help me",
+      "predicted_intent": "help",
+      "confidence": 0.6366405213144344,
+      "entities": {}
+    },
+    {
+      "text": "thank you",
+      "predicted_intent": "goodbye",
+      "confidence": 0.8761445436079301,
+      "entities": {}
+    }
+  ],
+  "model_info": {
+    "feature_count": 162,
+    "classes": [
+      "goodbye",
+      "greeting",
+      "help",
+      "inventory",
+      "order_status",
+      "product_info",
+      "product_search",
+      "return_policy",
+      "shipping"
+    ],
+    "training_data_size": 262
+  }
+}
